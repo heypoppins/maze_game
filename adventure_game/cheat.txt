@@ -1,0 +1,74 @@
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+go north
+attack
+spell
+go east
+take blood-let
+equip
+spells
+blood-let
+q
+q
+go north
+loot
+bookcase
+bolster
+q
+go south
+go west
+go south
+use heal
+go north
+use heal
+go east
+use heal
+go north
+use heal
+go east
+attack
+spell
+attack
+spell
+use torch
+loot
+aura
+sword of the sacred light
+sacred-light
+q
+equip
+weapons
+sword of the sacred light
+q
+q
+go south
+go west
+go west
+attack
+weapon
+use heal
+go north
+attack
+weapon
+attack
+weapon
+use heal
+use key
+yes
+attack
+weapon
+attack
+weapon
+h
+h
+h
